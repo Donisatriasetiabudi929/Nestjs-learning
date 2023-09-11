@@ -26,6 +26,24 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+
+## Database
+MONGODB
+
+## JWT
+Json Web Token
+1. Authentication
+2. Authorization
+
+## Message queues
+RabbitMq
+
+## Storage
+MinIO
+
+## Cache
+Redis Cache
+
 ## Installation
 
 ```bash
@@ -73,21 +91,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 Nest is [MIT licensed](LICENSE).
 
 
-## Database
-MONGODB
-
-## JWT
-Json Web Token
-1. Authentication
-2. Authorization
-
-## Message queues
-RabbitMq
-
-## Storage
-MinIO
-
-## Cache
-Redis Cache
 
 
