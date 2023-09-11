@@ -73,11 +73,21 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 Nest is [MIT licensed](LICENSE).
 
 
-Database
+## Database
 MONGODB
 
-Storage
+## JWT
+Json Web Token
+1. Authentication
+2. Authorization
+
+## Message queues
+RabbitMq
+
+## Storage
 MinIO
 
-Cache
+## Cache
 Redis Cache
+
+
